@@ -7,6 +7,9 @@
   season: "High Stakes",
   year: "2024-2025",
   theme: radial-theme, // TODO: change the theme to one you like
+  cover: [
+    
+  ]
 )
 
 #include "./frontmatter.typ"

@@ -9,10 +9,13 @@
   date: datetime(year: 2024, month: 1, day: 1),
 )
 
+
 Here's some content in this entry.
 
 
 Here's an example of how you'd create a pro-con table:
+
+//#image()
 
 #pro-con(
   pros: [
