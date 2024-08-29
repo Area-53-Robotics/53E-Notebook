@@ -1,3 +1,6 @@
+
+#include "../frontmatter.typ"
+
+#include "../appendix.typ"
+
 #include "./example-entry.typ"
-// TODO: add more entries here
-// entries will appear in included order
