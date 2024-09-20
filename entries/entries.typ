@@ -3,4 +3,4 @@
 
 #include "../appendix.typ"
 
-#include "./example-entry.typ"
+#include "./post_reveal_entry.typ"
